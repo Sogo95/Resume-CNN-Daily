@@ -34,7 +34,7 @@ Ce projet met en œuvre un modèle de résumé automatique de texte utilisant un
 
 ## Auteurs
 
-Sogo Armel Emmanuel, Ouédraogo Guillaume Victorien
+Sogo Armel Emmanuel, Ouedraogo Relwindé Guillaume Victorien
 
 
 ## Licence
